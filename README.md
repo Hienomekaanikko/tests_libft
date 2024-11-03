@@ -14,4 +14,6 @@ How it works?
 
 etc.
 
+It will then output the tests. I made it in a way that it compares the original strlib function with the "ft_*" versions.
+
 Have a great day!
