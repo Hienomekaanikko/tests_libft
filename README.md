@@ -1,4 +1,4 @@
-Because the libft project involves many functions to test, I decided to make testing as simple as possible by creating a completely separate directory, testlibft, to hold all the test files. This directory contains its own Makefile, which utilizes the libft.a library created by the libft Makefile.
+Because the libft project involves so many functions to test, I decided to make testing as simple as possible by creating a completely separate directory, testlibft, to hold all the test files. This directory contains its own Makefile, which utilizes the libft.a library created by the libft Makefile.
 
 In order to use this setup, you’ll need to update the LIBFT_DIR variable in testlibft/Makefile to point to the location where your libft repository is cloned.
 
