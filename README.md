@@ -8,8 +8,8 @@ You also have to update the path to "libft.h" inside the "test_libft.h" file so 
 
 How it works?
 
-1. Build the Library: Go to the libft directory and run make. This will create the libft.a library if libft is built correctly.
-2. Build the Tests: Go to the testlibft directory and run make. This will compile each test file into a separate executable. You can then run each test executable independently, like so:
+1. Make the library: Go to the libft directory and run make. This will create the libft.a library if libft is built correctly.
+2. Make the tests: Go to the testlibft directory and run make. This will compile each test file into a separate executable. You can then run each test executable independently, like so:
 
 ```
 ./test_ft_strlen
