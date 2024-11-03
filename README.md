@@ -2,6 +2,8 @@ Because the libft project involves many functions to test, I decided to make tes
 
 In order to use this setup, you’ll need to update the LIBFT_DIR variable in testlibft/Makefile to point to the location where your libft repository is cloned.
 
+You also have to update the path to "libft.h" inside the "test_libft.h" file so that the prototypes of functions can be accessed.
+
 How it works?
 
 1. Build the Library: Go to the libft directory and run make. This will create the libft.a library if libft is built correctly.
