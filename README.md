@@ -2,9 +2,10 @@ Because the libft project involves many functions to test, I decided to make tes
 
 In order to use this setup, you’ll need to update the LIBFT_DIR variable in testlibft/Makefile to point to the location where your libft repository is cloned.
 
-How It Works
-Build the Library: Go to the libft directory and run make. This will create the libft.a library if libft is built correctly.
-Build the Tests: Go to the testlibft directory and run make. This will compile each test file into a separate executable. You can then run each test executable independently, like so:
+How it works?
+
+1. Build the Library: Go to the libft directory and run make. This will create the libft.a library if libft is built correctly.
+2. Build the Tests: Go to the testlibft directory and run make. This will compile each test file into a separate executable. You can then run each test executable independently, like so:
 
 ```
 ./test_ft_strlen
@@ -12,3 +13,5 @@ Build the Tests: Go to the testlibft directory and run make. This will compile e
 ```
 
 etc.
+
+Have a great day!
